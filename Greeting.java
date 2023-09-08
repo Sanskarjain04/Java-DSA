@@ -11,6 +11,8 @@ public class Greeting {
             break;
             case 3: System.out.println("Bonjour");
             break;
+            case 4: System.out.println("khwaja");
+            break;
             default:System.out.println("Invalid button");
         }
 
